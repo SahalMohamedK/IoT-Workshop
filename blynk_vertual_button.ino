@@ -5,7 +5,7 @@
 // See the Device Info tab, or Template settings
 #define BLYNK_TEMPLATE_ID ""
 #define BLYNK_DEVICE_NAME ""
-#define BLYNK_AUTH_TOKEN "="
+#define BLYNK_AUTH_TOKEN ""
 
 
 #include <ESP8266WiFi.h>
